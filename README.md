@@ -7,6 +7,10 @@
 4. Searching and Sorting
 5. LinkedList
 6. Binary Tree
+7. Binary Search Trees
+8. Greedy
+9. Backtracking
+10. 
 
 
 
